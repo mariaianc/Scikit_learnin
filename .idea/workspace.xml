@@ -1,15 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0f9b9c3-11fe-4bcd-b434-24e888456b66" name="Changes" comment="" />
+    <list default="true" id="e0f9b9c3-11fe-4bcd-b434-24e888456b66" name="Changes" comment="Datasets+notebooks">
+      <change beforePath="$PROJECT_DIR$/notebooks/clustering_ecommerce.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/clustering_spotify.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/regression_weather.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/regression_weather.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mariaianc"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mariaianc/Scikit_learnin",
+    "accountId": "d3230a4e-5e7e-4f1d-9108-d005c3a12590"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -23,6 +48,10 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -68,8 +97,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746467006550</updated>
-      <workItem from="1746467009107" duration="25000" />
+      <workItem from="1746467009107" duration="13074000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Datasets+notebooks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Datasets+notebooks" />
   </component>
 </project>
