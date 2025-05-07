@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0f9b9c3-11fe-4bcd-b434-24e888456b66" name="Changes" comment="Datasets+notebooks">
-      <change beforePath="$PROJECT_DIR$/notebooks/clustering_ecommerce.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/clustering_spotify.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/regression_weather.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/regression_weather.ipynb" afterDir="false" />
+    <list default="true" id="e0f9b9c3-11fe-4bcd-b434-24e888456b66" name="Changes" comment="regression model on weather data">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/clustering_spotify.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/clustering_spotify.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,8 +97,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746467006550</updated>
-      <workItem from="1746467009107" duration="13074000" />
+      <workItem from="1746467009107" duration="30421000" />
     </task>
+    <task id="LOCAL-00001" summary="regression model on weather data">
+      <option name="closed" value="true" />
+      <created>1746559971519</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746559971519</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +126,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Datasets+notebooks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Datasets+notebooks" />
+    <MESSAGE value="regression model on weather data" />
+    <option name="LAST_COMMIT_MESSAGE" value="regression model on weather data" />
   </component>
 </project>
